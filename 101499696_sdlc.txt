@@ -1,0 +1,3 @@
+SDLC methodology presents order and safety during the software development
+process. This type of framework helps ensure accountability, clarity, and
+quality throughout the DLC.
