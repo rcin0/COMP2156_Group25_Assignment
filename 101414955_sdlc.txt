@@ -1,0 +1,1 @@
+DevOps is a software development process that emphasises developer and operations team communication
