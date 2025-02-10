@@ -2,7 +2,7 @@
 
 ## Group Members 
 - **Leader:** Rainer Nacino (101499696) - [GitHub](https://github.com/rcin0) 
-- **Member 2:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
+- **Member 2:** Prasantha Rai (101051915) - [GitHub](https://github.com/Prasantha-Rai) 
 - **Member 3:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
 - **Member 4:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
 - **Member 5:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
