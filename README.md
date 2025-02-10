@@ -1,9 +1,13 @@
 # COMP2156_Group1_Assignment 
 
 ## Group Members 
-- **Leader:** Pritesh Patel (101499696) - [GitHub](https://github.com/priteshpatel) 
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe) 
-- **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith) 
+- **Leader:** Rainer Nacino (101499696) - [GitHub](https://github.com/rcin0) 
+- **Member 2:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
+- **Member 3:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
+- **Member 4:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
+- **Member 5:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
+- **Member 6:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
+
 
 ## Project Description 
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on 
