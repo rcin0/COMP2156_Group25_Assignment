@@ -1,0 +1,4 @@
+DevOps is a software development process that emphasises developer and operations team communication
+DevOps plays a crucial role in enhancing the Software Development Life Cycle (SDLC) by fostering collaboration between development and operations teams.
+ This approach leads to faster development, improved deployment, and more reliable software.
+DevOps helps developers and operations work together. It makes software development faster, improves updates, and ensures systems run smoothly.
