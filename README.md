@@ -2,7 +2,7 @@
 
 ## Group Members 
 - **Leader:** Rainer Nacino (101499696) - [GitHub](https://github.com/rcin0) 
-- **Member 2:** Taranpreet Singh (<>) - https://github.com/Taran0-0 
+- **Member 2:** Taranpreet Singh (101414955) - [GitHub] (https://github.com/Taran0-0) 
 - **Member 3:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
 - **Member 4:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
 - **Member 5:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
