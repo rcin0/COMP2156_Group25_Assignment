@@ -1,0 +1,2 @@
+The importance of learning DevOps in the software development cycle is to bridge the gap between IT and development,
+creating reliable software delivery in workplace environments.
