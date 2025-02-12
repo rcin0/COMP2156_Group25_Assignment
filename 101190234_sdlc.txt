@@ -1,2 +1,7 @@
 The importance of learning DevOps in the software development cycle is to bridge the gap between IT and development,
 creating reliable software delivery in workplace environments.
+
+Some important skills you will learn are:
+Faster software delivery
+Improved collaboration
+Enchanced software quality
