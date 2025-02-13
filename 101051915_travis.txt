@@ -1,0 +1,1 @@
+Travis CI is a continuous integration (CI) service that automates the process of building, testing, and deploying software projects. It integrates with GitHub repositories and runs automated workflows (called pipelines) whenever changes are pushed to the repository.
