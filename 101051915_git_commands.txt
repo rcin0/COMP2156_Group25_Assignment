@@ -1,0 +1,27 @@
+    git init: Initialize a new Git repository in your project.
+
+    git clone <repository-url>: Clone an existing repository to your local machine.
+    
+    git status: Check the status of your working directory and staged changes.
+
+    git add <file>: Stage a specific file for commit.
+
+    git add .: Stage all changes in the working directory.
+
+    git commit -m "commit message": Commit staged changes with a message.
+
+    git push <remote> <branch>: Push committed changes to a remote repository.
+
+    git pull <remote> <branch>: Fetch and merge changes from a remote repository.
+    
+    git branch: List all branches in the repository.
+
+    git branch <branch-name>: Create a new branch.
+
+    git checkout <branch-name>: Switch to a specific branch.
+
+    git checkout -b <branch-name>: Create and switch to a new branch.
+
+    git merge <branch-name>: Merge a branch into the current branch.
+
+    git rebase <branch-name>: Reapply commits on top of another branch.
