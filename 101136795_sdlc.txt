@@ -1,0 +1,5 @@
+Key benefits of DevOps:
+1. Improved Collaboration and Communication
+2. Accelerated Development Cycle and faster time to market
+3. Enhanced Quality and Reliability of Software
+4. Automations
