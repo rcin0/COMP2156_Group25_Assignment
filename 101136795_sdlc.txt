@@ -1,0 +1,13 @@
+Key benefits of DevOps:
+1. Improved Collaboration and Communication
+2. Accelerated Development Cycle and faster time to market
+3. Enhanced Quality and Reliability of Software
+4. Automations
+
+There are mutiple real-world applications of DevOps.
+Some of these include:
+1. E-Commerce Platforms
+2. Financial Services
+3. Healthcare and Telemedicine
+4. Entertainment and Media
+5. Automotive Industry 
