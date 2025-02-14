@@ -1,0 +1,3 @@
+In this DevOps class students will be learning about the procedures,
+protocols and best practices a DevOps eng will utilize to excel their
+productivity in the workplace.
