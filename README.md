@@ -8,7 +8,6 @@
 - **Member 5:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
 - **Member 6:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
 
-
 ## Project Description 
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on 
 collaborative Git workflows, branching strategies, and CI/CD integration. 
