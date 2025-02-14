@@ -1,4 +1,4 @@
-# COMP2156_Group1_Assignment 
+# COMP2156_Group25_Assignment 
 
 ## Group Members 
 - **Leader:** Rainer Nacino (101499696) - [GitHub](https://github.com/rcin0) 
@@ -13,9 +13,11 @@ This repository hosts the group assignment for COMP2156 DevOps course, focusing 
 collaborative Git workflows, branching strategies, and CI/CD integration. 
 
 ## Setup Instructions 
-1. Clone the repository. 
-2. Switch to your branch using `git checkout STUDENTID-Name`. 
-3. Install any dependencies as listed. 
+1. First, have the leader create the initial directory on their local machine.
+2. Using the git init command, create the repository on GitHub so that the other members can clone the main branch.
+3. Have each member clone the main repository on their local machine. 
+4. Have each member create their own branch using `git checkout STUDENTID-Name`. 
+5. Install any dependencies as listed.  
 
 ## CI/CD Pipeline 
 The project utilizes GitHub Actions for continuous integration. The workflow is defined 
