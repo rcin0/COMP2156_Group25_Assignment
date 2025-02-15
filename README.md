@@ -6,7 +6,7 @@
 - **Member 3:** Sean Peterson (101190234) - [GitHub](https://github.com/iambot104) 
 - **Member 4:** Taranpreet Singh (101414955) - [GitHub](https://github.com/Taran0-0) 
 - **Member 5:** Eric van Overdijk (101136975) - [GitHub](https://github.com/Airrick108) 
-- **Member 6:** Firstname Lastname (<>) - [GitHub](https://github.com/<>) 
+- **Member 6:** Bruce Henderson (101505349) - [GitHub](https://github.com/Bruce-Henderson)  
 
 ## Project Description 
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on 
@@ -25,7 +25,5 @@ through a workflow file located at .github/workflows/ci.yml. This file defines t
 and automation required to build, test, and validate the project whenever changes are made.
 
 ## Branching Strategy 
-Each team member works on a personal branch named `STUDENTID-Name`. Changes are integrated 
-into the `main` branch through Pull Requests.
-
-
+Each team member works on a personal branch named `STUDENTID-Name`. Changes are integrated into the `main` 
+branch through Pull Requests.
