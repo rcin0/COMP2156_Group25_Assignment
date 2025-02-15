@@ -1,0 +1,10 @@
+Course Name: DevOps for System Administration
+Course Code: COMP 2156
+Prof name: Pritesh Patel
+
+The course is offered to students in the T147, T141, T187, and T191 programs.
+It is a 2nd year course and has a pre-requisite, which is COMP 2155.
+
+The course is designed to teach students all the skills and knowledge needed for a DevOps engineer.
+
+The course teaches students how to use GitHub, and students will learn about various data formats and types, such as XML, JSON, YAML, and YANG.
