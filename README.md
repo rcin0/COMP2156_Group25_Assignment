@@ -19,11 +19,12 @@ collaborative Git workflows, branching strategies, and CI/CD integration.
 3. Install any dependencies as listed. 
 
 ## CI/CD Pipeline 
-The project utilizes GitHub Actions for continuous integration. The workflow is defined 
-in `.github/workflows/ci.yml`. 
+The project uses GitHub Actions to enable continuous integration (CI). The CI process is configured 
+through a workflow file located at .github/workflows/ci.yml. This file defines the steps
+and automation required to build, test, and validate the project whenever changes are made.
 
 ## Branching Strategy 
-Each team member works on a personal branch named `STUDENTID-Name`. Changes are integrated into the `main` 
-branch through Pull Requests.
+Each team member works on a personal branch named `STUDENTID-Name`. Changes are integrated 
+into the `main` branch through Pull Requests.
 
 
